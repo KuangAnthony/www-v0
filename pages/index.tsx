@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
-      <div className='h-108'>
+      <div className='h-72'>
         <canvas className='gradient' data-js-darken-top data-transition-in />
       </div>
     </>
